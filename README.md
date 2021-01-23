@@ -16,27 +16,27 @@
 
 ### Key Activities
 
-* [Basic Plot] Unit 1 Activity - Stu_NJTemp-LinePlots
+* **[Basic Plot]** Unit 1 Activity - Stu_NJTemp-LinePlots
 
-* [Bar Charts] Unit 1 Activity - Stu_PyBars
+* **[Bar Charts]** Unit 1 Activity - Stu_PyBars
 
-* [Scatter Plots] Unit 1 Activity - Stu_ScatterPy
+* **[Scatter Plots]** Unit 1 Activity - Stu_ScatterPy
 
-* [Pandas Plotting] Unit 2 Activity - Stu_BattlingKings-PlottingPandas
+* **[Pandas Plotting]** Unit 2 Activity - Stu_BattlingKings-PlottingPandas
 
-* [Plotting Groups] Unit 2 Activity - Stu_BikeTrippin-Groupby
+* **[Plotting Groups]** Unit 2 Activity - Stu_BikeTrippin-Groupby
 
-* [Plotting Multi-lines] Unit 2 Activity - Ins_PandasMultiLine
+* **[Plotting Multi-lines]** Unit 2 Activity - Ins_PandasMultiLine
 
-* [Summary Statistics] Unit 3 Activity - Ins_Summary_Statistics
+* **[Summary Statistics]** Unit 3 Activity - Ins_Summary_Statistics
 
-* [Quartiles] Unit 3 Activity - Ins_Quartiles_and_Outliers
+* **[Quartiles]** Unit 3 Activity - Ins_Quartiles_and_Outliers
 
-* [Standard Error] Unit 3 Activity - Par_Standard_Error
+* **[Standard Error]** Unit 3 Activity - Par_Standard_Error
 
-* [Correlation] Unit 3 Activity - Stu_Correlation_Conquerors
+* **[Correlation]** Unit 3 Activity - Stu_Correlation_Conquerors
 
-* [Regression] Unit 3 Activity - Stu_Fits_and_Regression
+* **[Regression]** Unit 3 Activity - Stu_Fits_and_Regression
 
 ### Helpful Links
 
